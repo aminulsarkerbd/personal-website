@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cookie', ;
+}
+
+.header-bg {
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+    height: 700px;
+}
+
+.half-width {
+    float: left;
+    width: 45%;
+}
+
+.text-margin {
+    margin: 10% 2.5% 0;
+}
+
+.img-margin {
+    margin: 5% 2.5% 0;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+span {
+    font-size: 65px;
+    font-weight: 900;
+    color: #ff3366;
+}
+
+p {
+    text-align: justify;
+    color: #666666;
+}
+
+.link-btn {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 25px;
+    background-image: -webkit-gradient(linear, right top, left top, from(#ff3366), to(#ff6699));
+    background-image: linear-gradient(-90deg, #ff3366, #ff6699);
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+.peter-pic {
+    width: 100%;
+}
+
+.biography-bg {
+    background-image: url("images/biography-bg.png");
+    background-size: cover;
+    height: 850px;
+    background-attachment: fixed;
+}
+
+.work-bg {
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+    height: 450px;
+    background-position: center;
+
+}
+
+.work-title {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.my-work {
+    float: left;
+    width: 25%;
+    margin: 3% 1% 0;
+}
+
+.work-img {
+    width: 100%
+}
+
+.work-left {
+    margin-left: 11%;
+}
+
+.work-right {
+    margin-right: 10%;
+}
