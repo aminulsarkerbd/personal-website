@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Cookie', ;
+    font-family: 'Dancing Script', georgia;
 }
 
 .header-bg {
@@ -130,7 +130,8 @@ h2 {
     color: #ffffff;
     border-radius: 5px;
 }
-.send-email p{
+
+.send-email p {
     color: #ffffff;
 }
 
